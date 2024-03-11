@@ -3343,9 +3343,14 @@ input, select, textarea {
 		#main input, #main select, #main textarea {
 			color: #636363;
 		}
+		#main a{
+			opacity:0.6;
+			transition: opacity 0.5s ease; /* Transition effect */
+
+		}
 
 		#main a:hover {
-			color: #3b3b3b3e;
+			opacity: 1;
 		}
 
 		#main strong, #main b {
@@ -3523,6 +3528,7 @@ input, select, textarea {
 			#main .icon.major:before {
 				border-color: #dddddd;
 			}
+		
 
 		#main .icon.alt {
 			border-color: #dddddd;
