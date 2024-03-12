@@ -2362,12 +2362,15 @@ input, select, textarea {
 		}
 
 /* Image */
-
 	.image {
 		border-radius: 8px;
 		border: 0;
 		display: inline-block;
 		position: relative;
+		transition: transform 0.5s ease; /* Smooth transition for the transform */
+	}
+	.image:hover {
+		transform: scale(1.2); /* Enlarge the image to 120% of its original size on hover */
 	}
 
 		.image img {
