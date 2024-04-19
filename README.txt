@@ -1,20 +1,20 @@
-The main page of the NetMapping exercise in building the network of stakeholders in the implementation of the European Code Against Cancer.
+The main page of the NetMapping exercise in building the network of stakeholders in the implementation of the European Code Against Cancer. Initiative developed by the Center for Innovation in Medicine.
 
-
-
-Website built upon the theme Stellar by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-AJ
-aj@lkn.io | @ajlkn
 
 
 Credits:
+	Website templates:
+		html5up.net | @ajlkn, Stellar theme
+		http://blogs.oii.ox.ac.uk/vis/
+		https://github.com/oxfordinternetinstitute/InteractiveVis/
+
 
 	Icons:
 		Font Awesome (fontawesome.io)
+		
 
 	Other:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		
